@@ -23,7 +23,7 @@ here positive and negative indicate the sign of edges and users denotes the node
 ## Code
 
 - IPYNB file - sgcl_bitcoin_alpha.ipynb
-this code can run for other datasets as well mentioned in the repo by just changing the folder name in the code .
+- this code can run for other datasets as well mentioned in the repo by just changing the folder name in the code .
 
 
 ## Subparts in the code 
@@ -38,7 +38,7 @@ this code can run for other datasets as well mentioned in the repo by just chang
 - Training Parameter Setting
 - Training 
 - Results from SGCL 
-# Training on Logistic Regression, SVM and RandomForest on embeddings using various functions.
+### Training on Logistic Regression, SVM and RandomForest on embeddings using various functions.
 i. HADAMARD
 ii. Concatenated
 iii. L1-normalization
