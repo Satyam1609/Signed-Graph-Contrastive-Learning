@@ -21,7 +21,7 @@ here positive and negative indicate the sign of edges and users denotes the node
 - bitcoin_alpha\label_train.pkl - it contains the csv file on which training has to be done .
 
 ## Code
-
+![](./SGCL_architecture.png)
 - IPYNB file - sgcl_bitcoin_alpha.ipynb
 - this code can run for other datasets as well mentioned in the repo by just changing the folder name in the code .
 
