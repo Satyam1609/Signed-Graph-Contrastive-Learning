@@ -39,11 +39,11 @@ here positive and negative indicate the sign of edges and users denotes the node
 - Training 
 - Results from SGCL 
 ### Training on Logistic Regression, SVM and RandomForest on embeddings using various functions.
-i. HADAMARD
-ii. Concatenated
-iii. L1-normalization
-iv. L2-normalization 
-v. Averages
+*  i.HADAMARD
+*  ii. Concatenated
+*  iii. L1-normalization
+*  iv. L2-normalization 
+*  v. Averages
 
 
 
